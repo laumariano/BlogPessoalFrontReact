@@ -1,0 +1,7 @@
+.fundoCadastro {
+  background: linear-gradient(to right, #6D28D9, #EC4899); 
+  width: 100%;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
